@@ -1,0 +1,84 @@
+/*Index*/
+
+img {
+    width: 20%;
+    height: auto;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+}
+
+#titre-index {
+    text-align: center;
+    margin-top: 10%;
+    font-weight: bold;
+}
+
+#s-titre-index{
+    text-align: center;
+    margin-top: 2%;
+
+}
+
+.button-index {
+    text-align: center;
+    margin-top: 4%;
+
+}
+
+/*Register*/
+
+#s-titre-register {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+/*Navbar*/
+.navbar {
+    background-color:#337ab7;
+}
+/*Login*/
+
+#s-titre-login {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+/*Common*/
+
+h3 {
+    text-align: center;
+}
+
+.card-container {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ad-card {
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 45%;
+    height: 10%;
+    display: inline-block;
+    margin: 1%;
+    padding: 1%;
+}
+
+.title-card {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+
+.info-card {
+    text-align: center;
+}
+
+.description-card {
+    text-align: center;
+}
+
